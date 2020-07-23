@@ -22,3 +22,6 @@ header,
 .pad_section{
   padding-top: 100px;
 }
+.wow {
+  visibility: hidden;
+}
